@@ -1,0 +1,18 @@
+апр. 18, 2023 7:41:10 PM seminar2.HW.Htask1 babbleSort
+INFO: [30, 8, 70, 60, 54, 96, 70, 68, 58, 99]
+апр. 18, 2023 7:41:10 PM seminar2.HW.Htask1 babbleSort
+INFO: [8, 30, 60, 54, 70, 70, 68, 58, 96, 99]
+апр. 18, 2023 7:41:10 PM seminar2.HW.Htask1 babbleSort
+INFO: [8, 30, 54, 60, 70, 68, 58, 70, 96, 99]
+апр. 18, 2023 7:41:10 PM seminar2.HW.Htask1 babbleSort
+INFO: [8, 30, 54, 60, 68, 58, 70, 70, 96, 99]
+апр. 18, 2023 7:41:10 PM seminar2.HW.Htask1 babbleSort
+INFO: [8, 30, 54, 60, 58, 68, 70, 70, 96, 99]
+апр. 18, 2023 7:41:10 PM seminar2.HW.Htask1 babbleSort
+INFO: [8, 30, 54, 58, 60, 68, 70, 70, 96, 99]
+апр. 18, 2023 7:41:10 PM seminar2.HW.Htask1 babbleSort
+INFO: [8, 30, 54, 58, 60, 68, 70, 70, 96, 99]
+апр. 18, 2023 7:41:10 PM seminar2.HW.Htask1 babbleSort
+INFO: [8, 30, 54, 58, 60, 68, 70, 70, 96, 99]
+апр. 18, 2023 7:41:10 PM seminar2.HW.Htask1 babbleSort
+INFO: [8, 30, 54, 58, 60, 68, 70, 70, 96, 99]
