@@ -1,12 +1,14 @@
 //import seminar3.work.Task1;
-import seminar3.hw.MergeSort;
-import seminar3.hw.hTask2;
-import seminar3.hw.hTask3;
-import seminar3.work.Task2;
-import seminar3.work.Task3;
-import seminar3.work.Task4;
-import seminar4.HW.hTask1;
-import seminar4.HW.hTask4_2;
+//import seminar3.hw.MergeSort;
+//import seminar3.hw.hTask2;
+//import seminar3.hw.hTask3;
+//import seminar3.work.Task2;
+//import seminar3.work.Task3;
+//import seminar3.work.Task4;
+//import seminar4.HW.hTask1;
+//import seminar4.HW.hTask4_2;
+import seminar5.HW.hTask1;
+import seminar5.HW.hTask2;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -46,6 +48,10 @@ public class Main {
         //hTask2.delDigit();
         //hTask3.foo();
         //hTask1.mainNo();
-        hTask4_2.mainMenu();
+        //hTask4_2.mainMenu();
+
+
+        //hTask1.phoneBook();
+        hTask2.startProg();
     }
 }
