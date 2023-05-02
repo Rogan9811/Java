@@ -9,6 +9,7 @@
 //import seminar4.HW.hTask4_2;
 import seminar5.HW.hTask1;
 import seminar5.HW.hTask2;
+import seminar6.HW.laptopsMag;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -21,7 +22,7 @@ public class Main {
 //        Task3.addSmth(prose);
 //    }
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
 //        ArrayList<String> poetry = new ArrayList<String>();
 //        poetry.add("Поэзия");
 //        poetry.add("Евгений Онегин");
@@ -52,6 +53,7 @@ public class Main {
 
 
         //hTask1.phoneBook();
-        hTask2.startProg();
+        //hTask2.startProg();
+        laptopsMag.mainLapt();
     }
 }
